@@ -73,5 +73,5 @@ git push origin development
 Provide a link to your `README.md` in the `main` branch:
 
 ```
-https://github.com/YOUR_USERNAME/new-project/blob/main/README.md
+https://github.com/smaystr/new-project/blob/main/README.md
 ```
